@@ -1,5 +1,7 @@
 
 Diplom<br>
+Приложеение<br>
+https://drive.google.com/file/d/1iKiWGyIErPYLS9_aQjB3GDqevkzHVpEy/view?usp=sharing<br><br>
 
 https://docs.google.com/document/d/1qHRxLwWRFYTtM_bOevqofXmDrgQ3I3ldbf1SOIfamAg/edit?usp=sharing<br>
 
