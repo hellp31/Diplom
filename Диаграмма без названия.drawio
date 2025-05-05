@@ -14,8 +14,7 @@
             <mxPoint x="910" y="270" as="targetPoint" />
             <mxPoint x="730" y="170" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="730" y="171" />
-              <mxPoint x="910" y="171" />
+              <mxPoint x="910" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -51,8 +50,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="320" />
-              <mxPoint x="420" y="320" />
+              <mxPoint x="410" y="310" />
+              <mxPoint x="410" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -69,13 +68,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xIhbucnLsh3VXJ7L4_1q-70" value="Выбор вида работы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIhbucnLsh3VXJ7L4_1q-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xIhbucnLsh3VXJ7L4_1q-74" target="xIhbucnLsh3VXJ7L4_1q-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xIhbucnLsh3VXJ7L4_1q-74" value="Теория" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIhbucnLsh3VXJ7L4_1q-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIhbucnLsh3VXJ7L4_1q-77" target="xIhbucnLsh3VXJ7L4_1q-87">
           <mxGeometry relative="1" as="geometry">
@@ -83,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xIhbucnLsh3VXJ7L4_1q-77" value="Тесты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIhbucnLsh3VXJ7L4_1q-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xIhbucnLsh3VXJ7L4_1q-78" target="xIhbucnLsh3VXJ7L4_1q-58">
           <mxGeometry relative="1" as="geometry" />
@@ -116,13 +115,13 @@
         <mxCell id="xIhbucnLsh3VXJ7L4_1q-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIhbucnLsh3VXJ7L4_1q-87" target="xIhbucnLsh3VXJ7L4_1q-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="480" />
-              <mxPoint x="680" y="320" />
+              <mxPoint x="680" y="470" />
+              <mxPoint x="680" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xIhbucnLsh3VXJ7L4_1q-87" value="Практическое задание" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
