@@ -41,17 +41,11 @@
             <mxPoint x="430" y="-790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_16jkD-GpWcfrMRBFpo_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Wzd05YAp9pM7tJVJk9kT-15" target="Wzd05YAp9pM7tJVJk9kT-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="877" y="-719" />
-              <mxPoint x="877" y="-719" />
-            </Array>
-            <mxPoint x="450" y="-459" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="BHNTPq353vvfaq9Ly4G4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wzd05YAp9pM7tJVJk9kT-15" target="Wzd05YAp9pM7tJVJk9kT-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wzd05YAp9pM7tJVJk9kT-15" value="Главная&amp;nbsp;&lt;div&gt;Добавление групп.&lt;br&gt;Выбор существующих групп&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="664" y="-799" width="426" height="60" as="geometry" />
+          <mxGeometry x="960" y="-799" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wzd05YAp9pM7tJVJk9kT-48" value="Invalid password" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="-790" width="120" height="60" as="geometry" />
@@ -65,12 +59,12 @@
         <mxCell id="zt1CgaJMKVYSrlYPlvOR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wzd05YAp9pM7tJVJk9kT-53" target="zt1CgaJMKVYSrlYPlvOR-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="880" y="-639" />
+              <mxPoint x="953" y="-659" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Wzd05YAp9pM7tJVJk9kT-53" value="Проверка практических заданий" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="817" y="-669" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="-689" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wzd05YAp9pM7tJVJk9kT-68" value="Данный пользователь уже существует&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="-700" width="120" height="60" as="geometry" />
@@ -139,21 +133,21 @@
         <mxCell id="zt1CgaJMKVYSrlYPlvOR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zt1CgaJMKVYSrlYPlvOR-11" target="zt1CgaJMKVYSrlYPlvOR-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1020" y="-630" />
+              <mxPoint x="1093" y="-650" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zt1CgaJMKVYSrlYPlvOR-11" value="Список фамилий учеников" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="-669" width="120" height="60" as="geometry" />
+          <mxGeometry x="1033" y="-689" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BHNTPq353vvfaq9Ly4G4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zt1CgaJMKVYSrlYPlvOR-15" target="zt1CgaJMKVYSrlYPlvOR-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zt1CgaJMKVYSrlYPlvOR-15" value="Список тем, которые существует + которые&amp;nbsp; сделал ученик" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="-669" width="120" height="60" as="geometry" />
+          <mxGeometry x="1203" y="-689" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zt1CgaJMKVYSrlYPlvOR-17" value="Страница с ответом на практику + с ФИО + с баллом за тест + текст с заданием + место где выставит оценку за практику" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1115" y="-590" width="150" height="120" as="geometry" />
+          <mxGeometry x="1188" y="-610" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bedEnDc0arVoKkhbVb1m-1" value="Теория на определенную тему" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="-990" width="120" height="60" as="geometry" />
